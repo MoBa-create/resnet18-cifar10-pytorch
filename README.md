@@ -62,5 +62,8 @@ Place any target image named `test_image.jpg` in the project root directory and 
 ```bash
 python predict.py
 ```
+## 📥 Pre-trained Weights
+You can download the pre-trained weights (`resnet18_cifar10.pth`) directly from the (https://github.com/MoBa-create/resnet18-cifar10-pytorch/releases/tag/v1.0.0)
+and place it in the project root directory.
 
 It will output the predicted class, confidence percentage, and plot the top probability distribution.
