@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch saved weights / checkpoints (optional: comment out if you want to push weights to GitHub)
+# *.pth
+
+# Data folder
+/data/
+/data/cifar-10-batches-py/
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# IDE / Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+*.pth
