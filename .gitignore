@@ -27,3 +27,5 @@ ENV/
 Thumbs.db
 
 *.pth
+# Gradio Temporary Files
+flagged/
