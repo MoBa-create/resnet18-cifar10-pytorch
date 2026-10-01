@@ -67,3 +67,8 @@ You can download the pre-trained weights (`resnet18_cifar10.pth`) directly from 
 and place it in the project root directory.
 
 It will output the predicted class, confidence percentage, and plot the top probability distribution.
+
+## 🌐 Web Interface (Gradio)
+You can launch the interactive web interface to test custom images:
+```bash
+python app.py
